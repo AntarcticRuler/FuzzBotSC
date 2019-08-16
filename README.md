@@ -1,4 +1,4 @@
-FuzzBot's Skeleton
+# FuzzBot's Skeleton
 
 FuzzBot is a multipurpose Discord bot whose primary function is to provide fun commands, as well as some utility to a server.
 
